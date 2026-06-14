@@ -11,19 +11,15 @@ I am deeply fascinated by the technology that powers modern computing systems—
 
 My long-term goal is to contribute to the semiconductor and hardware industry while continuing to explore VLSI design, embedded systems and digital hardware development.
 
----
-
 ## 🚀 About Me
 
-- 🎓 B.Tech ECE Undergraduate
-- 🏅 Merit Scholarship Holder (3 years and counting)
-- 🔬 Interested in VLSI, Embedded Systems and Semiconductor Fabrication
-- ⚡ Currently working on Reconfigurable Arrays using FPGA
-- 📚 Learning Python and Digital Hardware Design
-- 🎯 Preparing for higher studies and exploring the GATE pathway
-- 🧠 Obsessed with understanding how chips, processors and computing systems work
-
----
+ 🎓 B.Tech ECE Undergraduate
+ 🏅 Merit Scholarship Holder (3 years and counting)
+ 🔬 Interested in VLSI, Embedded Systems and Semiconductor Fabrication
+ ⚡ Currently working on Reconfigurable Arrays using FPGA
+ 📚 Learning Python and Digital Hardware Design
+ 🎯 Preparing for higher studies and exploring the GATE pathway
+ 🧠 Obsessed with understanding how chips, processors and computing systems work
 
 ## 🛠️ Technologies & Tools
 
@@ -31,7 +27,7 @@ My long-term goal is to contribute to the semiconductor and hardware industry wh
 
 - C
 - C++
-- Python (Learning)
+- Python 
 - MATLAB
 - Verilog HDL
 
